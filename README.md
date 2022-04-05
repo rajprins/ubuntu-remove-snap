@@ -7,6 +7,6 @@ The content for this script came from an [Ask Ubuntu answer](https://askubuntu.c
 **Usage**
 
 ```bash
-bash -c "$(curl -fsSL https://raw.githubusercontent.com/rajprins/ubuntu-remove-snap/master/remove-snap.sh)"
+bash -c "$(curl -fsSL https://raw.githubusercontent.com/rajprins/ubuntu-remove-snap/main/remove-snap.sh)"
 ```
 
